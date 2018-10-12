@@ -27,5 +27,6 @@ int main() {
     } else{
         printf("brak pierwiastków");
     }
+    
     return 0;
 }
