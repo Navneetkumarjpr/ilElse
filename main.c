@@ -48,7 +48,10 @@ void wyswietlInfo() {
 }
 
 void wczytajParametry(double *a, double *b, double *c) {
-    printf("Podaj a "); scanf(" %lf", a);
-    printf("Podaj b "); scanf(" %lf", b);
-    printf("Podaj c "); scanf(" %lf", c);
+    printf("Podaj a "); 
+    scanf(" %lf", a);
+    printf("Podaj b ");
+    scanf(" %lf", b);
+    printf("Podaj c "); 
+    scanf(" %lf", c);
 }
